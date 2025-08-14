@@ -2,7 +2,7 @@
   "admin": [
     {
       "username": "thanos",
-      "password": "$2a$12$xxxxxxxxxxxxxxxxxxxxxxxxxxxx", 
+      "password": "$2a$12$Mn0h8MTprjDiw15.nUqKaeRjGN93TTVE./9dHm6gNNYYemTCpJze2", 
       "expiry": "2025-12-31",
       "subscription": "aimkillapk",
       "device_id": ""
