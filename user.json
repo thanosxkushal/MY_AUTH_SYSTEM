@@ -1,0 +1,11 @@
+{
+  "admin": [
+    {
+      "username": "thanos",
+      "password": "$2a$12$xxxxxxxxxxxxxxxxxxxxxxxxxxxx", 
+      "expiry": "2025-12-31",
+      "subscription": "aimkillapk",
+      "device_id": ""
+    }
+  ]
+}
